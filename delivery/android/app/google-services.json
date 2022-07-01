@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "684122642313",
+    "project_id": "delivery-grad",
+    "storage_bucket": "delivery-grad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684122642313:android:a70a46eecc3c510ead3358",
+        "android_client_info": {
+          "package_name": "xyz.osharif.delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684122642313-84sqiub031vejo5hn20p2mj3fptfsvec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpk36pxCd745eH7-KV4v926N-aqdpV6GM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684122642313-84sqiub031vejo5hn20p2mj3fptfsvec.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

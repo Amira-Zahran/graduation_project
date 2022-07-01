@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/pos/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/pos/build" />
+      <excludeFolder url="file://$MODULE_DIR$/pos/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/counter/build" />
+      <excludeFolder url="file://$MODULE_DIR$/counter/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/counter/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/kitchen/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/kitchen/build" />
+      <excludeFolder url="file://$MODULE_DIR$/kitchen/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/delivery/build" />
+      <excludeFolder url="file://$MODULE_DIR$/delivery/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/delivery/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/dispatcher/build" />
+      <excludeFolder url="file://$MODULE_DIR$/dispatcher/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/dispatcher/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/login_screen/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/login_screen/build" />
+      <excludeFolder url="file://$MODULE_DIR$/login_screen/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/login_screen/windows/flutter/ephemeral/.plugin_symlinks/path_provider_windows/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/login_screen/windows/flutter/ephemeral/.plugin_symlinks/path_provider_windows/build" />
+      <excludeFolder url="file://$MODULE_DIR$/login_screen/windows/flutter/ephemeral/.plugin_symlinks/path_provider_windows/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/dispatcher/pos/windows/flutter/ephemeral/.plugin_symlinks/connectivity_plus_windows/build" />
+      <excludeFolder url="file://$MODULE_DIR$/dispatcher/pos/windows/flutter/ephemeral/.plugin_symlinks/connectivity_plus_windows/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/dispatcher/pos/windows/flutter/ephemeral/.plugin_symlinks/connectivity_plus_windows/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/login_screen/windows/flutter/ephemeral/.plugin_symlinks/path_provider_windows/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/login_screen/windows/flutter/ephemeral/.plugin_symlinks/path_provider_windows/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/login_screen/windows/flutter/ephemeral/.plugin_symlinks/path_provider_windows/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/grad_project-main/kitchen/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/grad_project-main/kitchen/build" />
+      <excludeFolder url="file://$MODULE_DIR$/grad_project-main/kitchen/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/grad_project-main/login_screen/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/grad_project-main/login_screen/build" />
+      <excludeFolder url="file://$MODULE_DIR$/grad_project-main/login_screen/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/grad_project-main/counter/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/grad_project-main/counter/build" />
+      <excludeFolder url="file://$MODULE_DIR$/grad_project-main/counter/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/untitled1/build" />
+      <excludeFolder url="file://$MODULE_DIR$/untitled1/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/untitled1/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/grad_project-main/pos/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/grad_project-main/pos/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/grad_project-main/pos/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+  </component>
+</module>
