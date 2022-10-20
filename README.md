@@ -1,0 +1,6 @@
+[POS Documentation.pdf](https://github.com/Amira-Zahran/graduation_project/files/9834185/POS.Documentation.pdf)
+![Dispatching](https://user-images.githubusercontent.com/67193358/197069345-818530bd-55a4-4e94-a1f2-536172dae1c9.png)
+![End](https://user-images.githubusercontent.com/67193358/197069355-3ce5b26c-d768-4508-aed4-a51389130ab1.png)
+![Kitchen](https://user-images.githubusercontent.com/67193358/197069357-befe5876-8ef3-4eb4-adca-2216254e68ae.png)
+![POS](https://user-images.githubusercontent.com/67193358/197069361-dbc63b4a-0f02-454b-b741-2f06402e4c44.png)
+![Counter](https://user-images.githubusercontent.com/67193358/197069363-8f9e0bfe-5c43-4b75-8335-ce3b86cd9736.png)
